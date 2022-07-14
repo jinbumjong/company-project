@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "833573640875",
+    "firebase_url": "https://peji-2be61-default-rtdb.firebaseio.com",
+    "project_id": "peji-2be61",
+    "storage_bucket": "peji-2be61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833573640875:android:ecb0864ffb9f90a8fa75ee",
+        "android_client_info": {
+          "package_name": "com.example.mappart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833573640875-bio1apt9ko9poblujchjdm691su6481l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACoz-4lr6D6vUwFlki2vN0KOPZw3zK8Sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833573640875-bio1apt9ko9poblujchjdm691su6481l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
